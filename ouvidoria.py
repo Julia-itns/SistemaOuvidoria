@@ -1,3 +1,8 @@
+#Felipe Lavrado
+#Julia Inês
+# Luiz Miguel
+# Maria Claudia
+
 from operacoesbd import *
 
 def pesquisar_declaracao_pela_categoria(conexao):
