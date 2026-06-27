@@ -1,3 +1,8 @@
+#Felipe Lavrado
+#Julia Inês
+# Luiz Miguel
+# Maria Claudia
+
 import mysql.connector
 
 # Inicializa a conexão com o banco de dados
